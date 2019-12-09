@@ -1,3 +1,3 @@
 # Information
 Just for fun!
-# This library is mainly used for various special purposes.
+# This repository is mainly used for various special purposes.
